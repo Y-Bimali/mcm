@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Config files
+.jupyter/
+.ipython/
+
+# Environment folders
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook output files (optional, uncomment if needed)
+# This will ignore notebook outputs if saved separately
+# *.out
+# *.log
+
+# Python virtual environment files
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Conda environment files
+*.conda
+*.env
+*.yaml
+
+# Jupyter Notebook metadata (optional, uncomment if needed)
+# .nbmetadata/
+
+# Ignore data and output directories (optional, customize as needed)
+data/
+output/
+results/
+logs/
+
+# MacOS files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# VS Code project files
+.vscode/
+
+# Temporary files and backups
+*.tmp
+*.bak
+*.swp
+*.swo
